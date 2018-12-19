@@ -1,1 +1,1 @@
-
+var hands = 2;
